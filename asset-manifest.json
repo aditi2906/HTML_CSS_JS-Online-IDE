@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HTML_CSS_JS-Online-IDE/static/css/main.ee893bda.chunk.css",
+    "main.js": "/HTML_CSS_JS-Online-IDE/static/js/main.524f6d7a.chunk.js",
+    "main.js.map": "/HTML_CSS_JS-Online-IDE/static/js/main.524f6d7a.chunk.js.map",
+    "runtime-main.js": "/HTML_CSS_JS-Online-IDE/static/js/runtime-main.09e09ece.js",
+    "runtime-main.js.map": "/HTML_CSS_JS-Online-IDE/static/js/runtime-main.09e09ece.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/HTML_CSS_JS-Online-IDE/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.26ab40ef.chunk.js": "/HTML_CSS_JS-Online-IDE/static/js/2.26ab40ef.chunk.js",
+    "static/js/2.26ab40ef.chunk.js.map": "/HTML_CSS_JS-Online-IDE/static/js/2.26ab40ef.chunk.js.map",
+    "index.html": "/HTML_CSS_JS-Online-IDE/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/HTML_CSS_JS-Online-IDE/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.ee893bda.chunk.css.map": "/HTML_CSS_JS-Online-IDE/static/css/main.ee893bda.chunk.css.map",
+    "static/js/2.26ab40ef.chunk.js.LICENSE.txt": "/HTML_CSS_JS-Online-IDE/static/js/2.26ab40ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09e09ece.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.26ab40ef.chunk.js",
+    "static/css/main.ee893bda.chunk.css",
+    "static/js/main.524f6d7a.chunk.js"
+  ]
+}
